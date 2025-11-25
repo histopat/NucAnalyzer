@@ -1,0 +1,20 @@
+Copyright (c) 2025 Erdem Topalsalih
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the following source code files:
+
+- NucAnalyzerLib/NucleotideAnalyzer.h
+- NucAnalyzer/WinMain.cpp
+
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of these files, subject to the following conditions:
+
+1. This permission applies **only** to the files listed above.
+2. All other parts of the NucAnalyzer project remain proprietary and are not
+   covered by this license.
+3. The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the permitted files.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
